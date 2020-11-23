@@ -1,0 +1,4 @@
+config:
+  productPollingSeconds: 10
+  productLink: https://www.amazon.ca/PlayStation-5-Console/dp/B08GSC5D9G/ref=sr_1_3?dchild=1&keywords=ps5&qid=1606071928&sr=8-3
+  headless: false
